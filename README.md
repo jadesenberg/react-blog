@@ -1,4 +1,4 @@
-# React and Redux
+# React - blog
 
-Template
+Sample blog using react js (practice)
 
